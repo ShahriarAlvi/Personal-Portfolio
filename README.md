@@ -1,3 +1,6 @@
+# Project Deployed in: 
+check this website on netlify: [Personal Portfolio](https://shahriaralviportfolio.netlify.app/).
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
