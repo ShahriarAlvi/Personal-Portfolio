@@ -341,7 +341,7 @@ nav.navbar .navbar-toggler[aria-expanded="true"] .navbar-toggler-icon {
   z-index: -4;
 }
 
-*********** Projects Css ***********
+/*********** Projects Css ***********/
 .project {
   padding: 80px 0;
   position: relative;
@@ -446,7 +446,11 @@ nav.navbar .navbar-toggler[aria-expanded="true"] .navbar-toggler-icon {
   top: 50%;
   opacity: 1;
 }
-.proj-txtx h4 {
+.proj-txtx h4 a {
+  font-family: inherit;
+  /* font-size: inherit; */
+  color: inherit;
+  text-decoration: inherit;
   font-size: 30px;
   font-weight: 700;
   letter-spacing: 0.8px;

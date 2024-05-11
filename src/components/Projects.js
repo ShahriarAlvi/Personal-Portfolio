@@ -12,18 +12,21 @@ export const Projects = () => {
       description:
         "This is a platform for users to connect and learn programming together.It provides a mentor-mentee network where a user can seek guidance as a mentee or act as a guide.\nTools used: React.js, Node.js, Mysql, VsCode, Postman",
       imgUrl: projImg1,
+      gitUrl: "https://github.com/ShahriarAlvi/Mentorship"
     },
 
     {
       title: "connectSWE",
       description: "ajkshdajk",
       imgUrl: projImg2,
+      gitUrl: "https://github.com/ShahriarAlvi/connectSWE"
     },
 
     {
       title: "Wandering Paw",
       description: "ajkshdajk",
       imgUrl: projImg3,
+      gitUrl: "https://github.com/ShahriarAlvi/Wandering-Paw"
     },
   ];
 

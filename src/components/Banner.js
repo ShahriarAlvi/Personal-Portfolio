@@ -13,7 +13,7 @@ export const Banner = () => {
   const [isDeleting, setIsDeleting] = useState(false);
 
   // words that will be typed in/out
-  const toRotate = ["Web Developer", "Web Designer", "UI/UX Designer"];
+  const toRotate = ["Web Developer", "App Designer", "UI/UX Designer"];
 
   // current text
   const [text, SetText] = useState("");
